@@ -1,0 +1,27 @@
+.main-body{
+    width: 100px;
+}
+.cell{
+    margin-left: 5px;
+    font-size: 15px;
+    margin-bottom: 10px;
+}
+.start-button{
+    color: skyblue;
+    
+}
+.start-button:hover{
+    background-color:#F5F5F5;
+}
+.start-button:focus{
+    background-color:#006699;
+}
+.stop-button{
+    color: tomato;
+}
+.stop-button:hover{
+    background-color:#F5F5F5;
+}
+.stop-button:focus{
+    background-color:#006699;
+}
